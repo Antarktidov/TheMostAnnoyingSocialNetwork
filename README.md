@@ -17,7 +17,7 @@
 
 ```bash
 git clone https://github.com/Antarktidov/TheBloatestSocialNetwork.git
-cd TheBloatestSocialNetwork
+cd TheWorstSocialNetwork
 composer install
 npm i
 nmp run build
