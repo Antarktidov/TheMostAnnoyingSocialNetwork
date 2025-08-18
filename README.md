@@ -2,7 +2,7 @@
 
 Это - самая бесяцая соцсеть. Здесь единственный контент - голосовые, к котором можно ставить только негативные реакции. Идея позаимстована [у Душнилы](https://www.youtube.com/watch?v=ZylVaL5GR6E). Один пользователь может поставить неограниченное количество негативных реакций и их нельзя удалить.
 
-[Изображение ПК-версии](https://github.com/Antarktidov/TheBloatestSocialNetwork/blob/main/images/Index%20Desktop.png)
+[Изображение ПК-версии](https://github.com/Antarktidov/TheWorstSocialNetwork/blob/main/images/Index%20Desktop.png)
 
 ## Требуемое ПО
 
@@ -16,7 +16,7 @@
 Клонируйте ропозиторий и установите зависимости:
 
 ```bash
-git clone https://github.com/Antarktidov/TheBloatestSocialNetwork.git
+git clone https://github.com/Antarktidov/TheWorstSocialNetwork.git
 cd TheWorstSocialNetwork
 composer install
 npm i
