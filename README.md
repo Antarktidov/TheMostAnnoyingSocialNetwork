@@ -16,7 +16,7 @@
 Клонируйте ропозиторий и установите зависимости:
 
 ```bash
- git clone https://github.com/Antarktidov/TheBloatestSocialNetwork.git
+git clone https://github.com/Antarktidov/TheBloatestSocialNetwork.git
 cd TheBloatestSocialNetwork
 composer install
 npm i
