@@ -1,6 +1,6 @@
-# Самая худшая соцсеть (The Worst Social Network)
+# Самая нраздражающая соцсеть (The Most Annoying Social Network)
 
-Это - самая бесяцая соцсеть. Здесь единственный контент - голосовые, к котором можно ставить только негативные реакции. Идея позаимстована [у Душнилы](https://www.youtube.com/watch?v=ZylVaL5GR6E). Один пользователь может поставить неограниченное количество негативных реакций и их нельзя удалить.
+Это - самая раздражающая соцсеть. Здесь единственный контент - голосовые, к котором можно ставить только негативные реакции. Идея позаимстована [у Душнилы](https://www.youtube.com/watch?v=ZylVaL5GR6E). Один пользователь может поставить неограниченное количество негативных реакций и их нельзя удалить.
 
 ## Требуемое ПО
 
@@ -14,8 +14,8 @@
 Клонируйте ропозиторий и установите зависимости:
 
 ```bash
-git clone https://github.com/Antarktidov/TheWorstSocialNetwork.git
-cd TheWorstSocialNetwork
+git clone https://github.com/Antarktidov/TheMostAnnoyingSocialNetwork.git
+cd TheMostAnnoyingSocialNetwork
 composer install
 npm i
 nmp run build
